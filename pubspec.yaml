@@ -5,7 +5,7 @@ homepage: https://github.com/Pisey-Nguon
 repository: https://github.com/Pisey-Nguon/flutter_native_html_to_pdf
 
 environment:
-  sdk: '>=2.18.4 <4.0.0'
+  sdk: '>=2.18.3 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:
